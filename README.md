@@ -1,4 +1,4 @@
-# orna-npm-base 
+# orna-npm-base [![Build Status](https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=master)](https://travis-ci.org/ORNAJS/orna-npm-base) [![npm version](https://badge.fury.io/js/orna-npm-base.svg)](http://badge.fury.io/js/orna-npm-base) [![Dependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base) [![devDependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base#info=devDependencies) 
 
 A base package for creating NPM packages with ES2015.
 
@@ -9,10 +9,7 @@ If you want to write a **NPM module** in ES2015 and publish to NPM with backward
 ---
 ## Stats
 
-[![npm version](https://badge.fury.io/js/orna-npm-base.svg)](http://badge.fury.io/js/orna-npm-base) [![npm downloads](https://img.shields.io/npm/dm/norna-npm-base.svg)](https://npmjs.org/orna-npm-base) [![Build Status](https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=master)](https://travis-ci.org/ORNAJS/orna-npm-base)
-
-[![Dependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base)
-[![devDependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base#info=devDependencies)
+[![npm downloads](https://img.shields.io/npm/dm/norna-npm-base.svg)](https://npmjs.org/orna-npm-base)
 
 [![Throughput Graph](https://graphs.waffle.io/ORNAJS/orna-npm-base/throughput.svg)](https://waffle.io/ORNAJS/orna-npm-base/metrics)
 

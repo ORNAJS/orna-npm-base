@@ -1,4 +1,5 @@
-https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=development
+[![Build Status](https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=master)](https://travis-ci.org/ORNAJS/orna-npm-base)
+
 
 # npm-base
 

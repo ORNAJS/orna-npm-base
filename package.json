@@ -22,12 +22,12 @@
     "test-watch": "npm run testonly -- --watch --watch-extensions js"
   },
   "devDependencies": {
-    "nodemon": "1.7.x",
+    "nodemon": "1.9.x",
     "mocha": "2.x.x",
     "chai": "3.x.x",
-    "eslint": "1.7.x",
-    "babel-eslint": "4.x.x",
-    "eslint-plugin-babel": "2.x.x",
+    "eslint": "2.6.x",
+    "babel-eslint": "6.x.x",
+    "eslint-plugin-babel": "3.x.x",
     "babel-cli": "6.x.x",
     "babel-core": "6.x.x",
     "babel-polyfill": "6.x.x",

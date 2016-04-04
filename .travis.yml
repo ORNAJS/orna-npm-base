@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- node
+deploy:
+  provider: npm
+  email: ornajs@ornaapplabs.com
+  api_key:
+    secure: ejldSgGzuxvwNZST1SJ+TwtcGUqDs5nAzFNwF4VGJEcHLqwhLf1x290vjiOzj+Em3nTlP6rgEQAR6zDXFE63gu2zfumfnm8o3ErxUiD+Pfm6oDUz6aIV/s1XiRusfc9VZKChTDkBXctqRgvxMmNTGB0kQCjHdw99WLMN3MwAtSpan/6wmrDaPe6BAZPCtrKK9fAmG7lfLGkx9R5YOSnf7qawM9zmhBU47DMpKk7Ri9m+0WEThU7C/l+kUM7Nq+1yov/YkO3Z0fjpA8+FOM2vz+7uf+TOfYQaR5Uqblu/MLYIq0pGAm6qYxP7rnFmAAaNppR6MUAzzIekx9ZDGkoMC3Zhntmlt63o6lxtjT4J2uB+5AW1W2xWq63YGMzPaqGsc5XyEjAt7mTPzMP915sXsW9swaa9TmYGAIgboAtEnEOoXfvzxV6iYUTcaJ7McetwIwoK46F4cg3Ic+FkGqr+Ex/oD6BzuG63LTyTByo5ID0bfPKQSqTX0a/F5/LLLGg42bUzMfWQrnzmqyjGFwwdZ1wyJlMj9hEMR04u+AoCG1i4XciSBdNwAPl6qYu5Qs54KYOFuyBIN3pk/S+b14eHG666XIFsVjTna4lougPUy75k3HkiZzBKW3Tpd5m+3zWLxdSdv7ylsWYQt4ZY7xfNuNxvfEHpCh2A+2MofFGFWWI=
+  on:
+    tags: true

@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "ORNA App Labs",
   "main": "index.js",
-  "browser": "index.js"
+  "browser": "index.js",
   "options": {
     "mocha": "--require scripts/mocha_runner src/**/__tests__/**/*.js"
   },

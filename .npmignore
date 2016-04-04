@@ -6,5 +6,6 @@
 .idea
 .babelrc
 .eslintrc
+.travis.yml
 npm-debug.log
 lib

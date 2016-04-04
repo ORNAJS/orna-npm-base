@@ -1,14 +1,17 @@
 {
-  "name": "npm-base",
+  "name": "orna-npm-base",
   "version": "1.0.0",
   "description": "A base NPM package for writing a NPM package in ES2015",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kadirahq/npm-base.git"
-  },
   "license": "MIT",
+  "author": "ORNA App Labs",
+  "main": "index.js",
+  "browser": "index.js"
   "options": {
     "mocha": "--require scripts/mocha_runner src/**/__tests__/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ornajs/orna-npm-base.git"
   },
   "scripts": {
     "prepublish": ". ./scripts/prepublish.sh",
@@ -29,7 +32,7 @@
     "babel-core": "6.x.x",
     "babel-polyfill": "6.x.x",
     "babel-preset-es2015": "6.x.x",
-    "babel-preset-stage-2": "6.x.x",
+    "babel-preset-stage-1": "6.x.x",
     "babel-plugin-transform-runtime": "6.x.x"
   },
   "dependencies": {

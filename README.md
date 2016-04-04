@@ -1,15 +1,20 @@
-[![Build Status](https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=master)](https://travis-ci.org/ORNAJS/orna-npm-base)
-
-
-# npm-base
+# orna-npm-base 
 
 A base package for creating NPM packages with ES2015.
-
----
 
 Writing in ES2015 is an amazing experience. Setting up babel and the development environment in a kind of a pain.
 
 If you want to write a **NPM module** in ES2015 and publish to NPM with backward compatibility, this is the **easiest** way.
+
+---
+## Stats
+
+[![npm version](https://badge.fury.io/js/orna-npm-base.svg)](http://badge.fury.io/js/orna-npm-base) [![npm downloads](https://img.shields.io/npm/dm/norna-npm-base.svg)](https://npmjs.org/orna-npm-base) [![Build Status](https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=master)](https://travis-ci.org/ORNAJS/orna-npm-base)
+
+[![Dependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base)
+[![devDependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base#info=devDependencies)
+
+[![Throughput Graph](https://graphs.waffle.io/ORNAJS/orna-npm-base/throughput.svg)](https://waffle.io/ORNAJS/orna-npm-base/metrics)
 
 ## Basic Usage
 

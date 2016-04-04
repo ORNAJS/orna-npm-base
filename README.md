@@ -1,3 +1,5 @@
+https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=development
+
 # npm-base
 
 A base package for creating NPM packages with ES2015.
@@ -10,7 +12,8 @@ If you want to write a **NPM module** in ES2015 and publish to NPM with backward
 
 ## Basic Usage
 
-* Simply clone [this](https://github.com/kadirahq/npm-base) project.
+* Simply clone [this](https://github.com/ORNAJS/orna-npm-base) project.
+* `git clone git@github.com:/ORNAJS/orna-npm-base <Project Name>`
 * Change the `package.json` as you want.
 * `lib/index.js` in your entry point.
 * Then publish to npm via `npm publish`.
@@ -18,7 +21,7 @@ If you want to write a **NPM module** in ES2015 and publish to NPM with backward
 ## Linting
 
 * ESLINT support is added to the project.
-* It's configured for ES2015 and inherited configurations from [graphql/graphql-js](https://github.com/graphql/graphql-js).
+* It's configured for ES2015
 * Use `npm run lint` to lint your code and `npm run lintfix` to fix common issues.
 
 ## Testing
@@ -35,7 +38,3 @@ If you want to write a **NPM module** in ES2015 and publish to NPM with backward
 * You can change them with adding and removing [presets](http://jamesknelson.com/the-six-things-you-need-to-know-about-babel-6/).
 * All the polyfills you use are taken from the local `babel-runtime` package. So, this package won't add any global polyfills and pollute the global namespace.
 
-## Kudos
-
-* Babel6 and the team behind it.
-* Facebook's [graphql-js](https://github.com/graphql/graphql-js) authors for ESLint configurations and for the directory structure.

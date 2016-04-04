@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=master)](https://travis-ci.org/ORNAJS/orna-npm-base) [![npm version](https://badge.fury.io/js/orna-npm-base.svg)](http://badge.fury.io/js/orna-npm-base) [![Dependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base) [![devDependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base#info=devDependencies) 
+[![Build Status](https://travis-ci.org/ORNAJS/orna-npm-base.svg?branch=master)](https://travis-ci.org/ORNAJS/orna-npm-base) [![npm version](https://badge.fury.io/js/orna-npm-base.svg)](http://badge.fury.io/js/orna-npm-base) [![Dependency Status](https://david-dm.org/ORNAJS/orna-npm-base.svg)](https://david-dm.org/ORNAJS/orna-npm-base) [![devDependency Status](https://david-dm.org/ORNAJS/orna-npm-base/dev-status.svg)](https://david-dm.org/ORNAJS/orna-npm-base#info=devDependencies) 
 # orna-npm-base
 
 A base package for creating NPM packages with ES2015.
